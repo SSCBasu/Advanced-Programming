@@ -4,3 +4,6 @@
 [submodule "4012/Tweeterak_Univercity_Project"]
 	path = 4012/Tweeterak_Univercity_Project
 	url = git@github.com:amirhosseinbt/Tweeterak_Univercity_Project.git
+[submodule "4012/UI-final-project"]
+	path = 4012/UI-final-project
+	url = git@github.com:Hossein-Fazel/UI-final-project.git
