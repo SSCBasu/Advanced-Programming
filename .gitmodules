@@ -1,3 +1,6 @@
 [submodule "992/Chess-Game"]
 	path = 992/Chess-Game
 	url = git@github.com:alizeinodin/Chess-Game.git
+[submodule "4012/Tweeterak_Univercity_Project"]
+	path = 4012/Tweeterak_Univercity_Project
+	url = git@github.com:amirhosseinbt/Tweeterak_Univercity_Project.git
