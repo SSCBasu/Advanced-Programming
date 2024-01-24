@@ -10,3 +10,6 @@
 [submodule "4012/twitterak-final"]
 	path = 4012/twitterak-final
 	url = git@github.com:arya237/twitterak-final.git
+[submodule "4001/Cpp-Pacman"]
+	path = 4001/Cpp-Pacman
+	url = git@github.com:salehsoleimani/Cpp-Pacman.git
