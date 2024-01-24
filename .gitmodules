@@ -7,3 +7,6 @@
 [submodule "4012/UI-final-project"]
 	path = 4012/UI-final-project
 	url = git@github.com:Hossein-Fazel/UI-final-project.git
+[submodule "4012/twitterak-final"]
+	path = 4012/twitterak-final
+	url = git@github.com:arya237/twitterak-final.git
