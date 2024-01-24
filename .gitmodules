@@ -1,0 +1,3 @@
+[submodule "992/Chess-Game"]
+	path = 992/Chess-Game
+	url = git@github.com:alizeinodin/Chess-Game.git
