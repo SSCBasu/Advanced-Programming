@@ -13,3 +13,6 @@
 [submodule "4001/Cpp-Pacman"]
 	path = 4001/Cpp-Pacman
 	url = git@github.com:salehsoleimani/Cpp-Pacman.git
+[submodule "4002/Cpp-Pacman"]
+	path = 4002/Cpp-Pacman
+	url = git@github.com:salehsoleimani/Cpp-Pacman.git
